@@ -11,11 +11,19 @@
     </ul> </h2>
     
 <h2>The presented routine calculates the FFT (Fast Fourier Transform) of a signal collected with the accelerometer MPU6050, the signal was generated and applied through a shaker.
-<br><br>The FFT provides an analysis with other eyes of the vibration signal in this case showing the frequency at which the shaker was working.
-<br><br>In the notebook posted in this repository it is possible to see the original signal and the treated signal.</h2>
+	<h2 align = "center">Figure 1 - MPU6050. <br><br>
+        	<div>
+            		<img src="mpu6050.jpg">
+        	</div>
+    	</h2>
+	</h2>
+	
+<h2>The FFT provides an analysis with other eyes of the vibration signal in this case showing the frequency at which the shaker was working.
+<br><br>In the notebook posted in this repository it is possible to see the original signal and the treated signal.
+</h2>
     
     	
-<h2>Experiment and algorithm by José Sávyo Soares Lira - josesavyo.lira@ee.ufcg.edu.br
+<h2>Experiment and algorithm by José Sávyo Soares Lira - josesavyo.lira@ee.ufcg.edu.br</h2>
 	
 <h2 align="center">Social Contacts<br><br>
         <p align="center">
