@@ -19,9 +19,20 @@
 	</h2>
 	
 <h2>The FFT provides an analysis with other eyes of the vibration signal in this case showing the frequency at which the shaker was working.
-<br><br>In the notebook posted in this repository it is possible to see the original signal and the treated signal.
+<br><br>In the notebook posted in this repository it is possible to see the original signal and the treated signal and the code in python.
 </h2>
     
+<h2 align = "center">Figure 2. <br><br>
+	<div>
+		<img src="signal(temp).png">
+	</div>
+</h2>
+	
+<h2 align = "center">Figure 3. <br><br>
+	<div>
+		<img src="signal(hz).png">
+	</div>
+</h2>
     	
 <h2>Experiment and algorithm by José Sávyo Soares Lira - josesavyo.lira@ee.ufcg.edu.br</h2>
 	
